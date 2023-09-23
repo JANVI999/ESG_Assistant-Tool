@@ -1,6 +1,7 @@
 ESG Assistant Tool
 (An AI-powered solution designed to enhance the understanding of investment strategies within the context of Environmental, Social, and Governance, a regression model that predicts stock performance based on ESG (Environmental, Social, Governance) scores)
 The model aims to predict how a company's stock is likely to perform based on its ESG metrics. It also provides investment recommendations, suggesting whether to consider investing in a company or avoiding it based on the model's predictions. This strategy, while simplified, reflects an approach that incorporates ESG factors into investment decisions, acknowledging the importance of ethical considerations. The overall strategy here is to leverage ESG scores as potential indicators of stock performance. The model is trained to identify patterns and relationships between ESG scores and stock performance, which can then be used to make investment recommendations.
+
 Methods:-
 1. Data Generation 
 2. Data Preprocessing 
